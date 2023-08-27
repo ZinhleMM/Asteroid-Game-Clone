@@ -1,5 +1,5 @@
 # Use a base image
-FROM your-base-image:tag
+FROM Asteroid-game-clone:baseImage
 
 # Set the working directory inside the container
 WORKDIR /app
